@@ -1,6 +1,6 @@
 # Weather App
 
-   ### [Open This Project](https://weather-eight-jade.vercel.app/)
+   ### [Open This Project](https://weather-midas-touch.netlify.app/)
   ![ScreenShot](https://github.com/midastouch-dev/weather/blob/master/src/images/screeen.jpg)
 
 
