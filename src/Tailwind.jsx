@@ -34,8 +34,8 @@ const Tailwind = (props) => {
       </div>
       <footer className="footer">
         Open source by{" "}
-        <a className="link" href="https://www.halidislam.com/">
-          Halid İslam
+        <a className="link" href="https://github.com/midastouch-dev">
+          MidasTouch Dev
         </a>
         ©2022 - now
       </footer>

@@ -1,7 +1,7 @@
 # Weather App
 
    ### [Open This Project](https://weather-eight-jade.vercel.app/)
-  ![ScreenShot](https://github.com/imhalid/weather/blob/master/src/images/screeen.jpg?raw=true)
+  ![ScreenShot](https://github.com/midastouch-weather/weather/blob/master/src/images/screeen.jpg?raw=true)
 
 
 I learned a lot of new things in this project. First of all, I understood how APIs work. I had dealt with apis a few times before, but I was constantly getting an error that I did not understand and the data I wanted was not coming. in this project i realized it was because i didn't add error message.
